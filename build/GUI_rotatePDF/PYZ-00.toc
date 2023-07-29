@@ -1,4 +1,5 @@
-('/Users/minhha/Desktop/Projects/rotatePDF app/build/GUI_rotatePDF/PYZ-00.pyz',
+('/Users/minhha/Desktop/Personal Projects/rotatePDF/rotatePDF '
+ 'git/build/GUI_rotatePDF/PYZ-00.pyz',
  [('PIL',
    '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/PIL/__init__.py',
    'PYMODULE'),
